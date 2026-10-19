@@ -4,4 +4,4 @@ A Python-based financial tool to backtest custom equity baskets against the S&P 
 ### Run it live!
 Click the badge below to run and test this code interactively in your browser without installing anything:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/yotk7/equity-basket-backtester/blob/main/your-notebook-name.ipynb)](https://colab.research.google.com/drive/1bJn17yztsC3E8uW1s8Bkzd_YI-cDHtIr?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/yotk7/equity-basket-backtester/blob/main/your-notebook-name.ipynb)]
